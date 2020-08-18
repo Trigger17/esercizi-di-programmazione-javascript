@@ -12,3 +12,15 @@
 
   http://www.imparareaprogrammare.it
 */
+var sum = 12560
+var secondi = 12560 - 12540
+var minuti = Math.floor (1740/60);
+var ore = Math.floor(12560/3600);   //non saprò mai se è considerato imbrogliare risolvere l'esercizio in questo modo ??
+console.log(ore,minuti,secondi);
+
+
+
+
+
+
+
