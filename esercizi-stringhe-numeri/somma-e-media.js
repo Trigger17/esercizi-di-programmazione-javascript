@@ -8,3 +8,9 @@
   
   http://www.imparareaprogrammare.it
 */
+
+
+
+var sum = 1+2+3+4+5
+var average = sum/5
+console.log(sum,average);
