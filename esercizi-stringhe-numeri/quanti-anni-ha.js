@@ -11,3 +11,9 @@
 
   http://www.imparareaprogrammare.it
 */
+var year = 2020
+var born = 1997
+var now = year-born
+var to100 = 100
+var missing = 100-now
+console.log(now,missing);
