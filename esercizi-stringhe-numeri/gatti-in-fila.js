@@ -17,3 +17,8 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats=44;
+var perlines=6;
+var lines = Math.ceil(cats/perlines);
+var catmissing= lines*perlines-cats
+console.log(lines,catmissing);
